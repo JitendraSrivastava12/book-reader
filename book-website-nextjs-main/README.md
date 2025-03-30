@@ -1,5 +1,3 @@
-### https://buymeacoffee.com/vivekneupaw/e/362824
-![SUPPORT ME HERE](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM0N-xdJuD9rE4I82SH2b463jtSrs1ECPiUmSdiM5M8X9RuULYAd84ERHJN_Ve69BFIHzbEqPCCHFP5873QVlu0fP7UEGDVTBiosd9MA)
 
 # Book Reading App
 
@@ -9,13 +7,9 @@ A web application that enhances the reading experience by allowing users to inte
 
 ## Demo
 
-You can check out the live demo of the Book Reading App [here](https://book-website-nextjs-nh5jvrwtr-vivekneupane11.vercel.app/).
+You can check out the live demo of the Book Reading App [here](https://book-website-nextjs.vercel.app/)
 
 ![BOOK READER APP](https://raw.githubusercontent.com/vivekneupane11/book-website-nextjs/refs/heads/main/Screenshot%202024-09-25%20at%2023.28.09.png)
-
-## Video Tutorial
-
-You can watch a tutorial on how to create this app [here](https://www.youtube.com/watch?v=kZVt_OmD-tI).
 
 ## Features
 

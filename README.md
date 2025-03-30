@@ -1,6 +1,6 @@
 # Book Reader Web Application
 
-[![Live Demo](https://whimsical-peony-00a6f8.netlify.app/)
+[![Live Demo]:-(https://whimsical-peony-00a6f8.netlify.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://reactjs.org/)
 

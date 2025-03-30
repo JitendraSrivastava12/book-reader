@@ -39,7 +39,7 @@ A modern web application for reading books online, built with Next.js and featur
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/book-reader.git
+   git clone https://github.com/JitendraSrivastava12/book-reader.git
 2.Install dependencies
 bash
 cd book-reader
